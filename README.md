@@ -30,6 +30,6 @@ Bu proje, bir alışveriş uygulaması için geliştirilmiştir. Kullanıcılar 
 - HTML, CSS ve JavaScript kullanılmıştır.
 - Font Awesome ikonları ve harici CSS dosyaları kullanılmıştır.
 
-https://github.com/user-attachments/assets/a1c8da5a-cf18-4730-ab80-b36f9b609257
+https://github.com/user-attachments/assets/f427206c-c613-4925-bc86-fb593edf87b6
 
 [Canlı Demo'yu Deneyin](https://fatihycan.github.io/Checkout-App/)
