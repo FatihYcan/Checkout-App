@@ -1,34 +1,42 @@
 # Checkout App
 
-This project was developed for a shopping application. Users can manage the items in their cart, calculate prices and view the total amount.
+This project is a simple shopping application to list products on an e-commerce site, calculate prices and complete the order. Users can increase, decrease or delete the quantity of products. The app calculates the total amount, taxes and shipping charges.
 
 ## Features
 
-- **Product List:** Shows discounted and normal prices of different products.
-- **Cart Management:** Provides the ability to add products, edit the quantity and delete them.
-- **Total Calculation:** Calculates the total price of the items in the cart, including tax and shipping fee.
-- **Responsive Design:** Designed to work properly on different devices.
+- List and view products
+- Increase or decrease the amount of product
+- Deleting products from the cart
+- Calculate total amount, shipping cost and taxes
+- Determining shipping costs and tax rates
 
-## Used technologies
+## Technologies
 
-- HTML, CSS and JavaScript are used.
-- Font Awesome icons and external CSS files are used.
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Responsive Design
 
 # Checkout App
 
-Bu proje, bir alışveriş uygulaması için geliştirilmiştir. Kullanıcılar sepetlerindeki ürünleri yönetebilir, fiyatları hesaplayabilir ve toplam tutarı görüntüleyebilirler.
+Bu proje, bir e-ticaret sitesinde ürünleri listelemek, fiyatları hesaplamak ve siparişi tamamlamak için basit bir alışveriş uygulamasıdır. Kullanıcılar ürünlerin miktarını artırabilir, azaltabilir veya silebilir. Uygulama, toplam tutar, vergiler ve kargo ücretlerini hesaplar.
 
 ## Özellikler
 
-- **Ürün Listesi:** Farklı ürünlerin indirimli ve normal fiyatlarını gösterir.
-- **Sepet Yönetimi:** Ürünleri ekleyebilme, miktarını düzenleyebilme ve silebilme özelliği sağlar.
-- **Toplam Hesaplama:** Sepetteki ürünlerin toplam fiyatını, vergi ve nakliye ücreti dahil olacak şekilde hesaplar.
-- **Responsive Tasarım:** Farklı cihazlarda düzgün çalışacak şekilde tasarlanmıştır.
+- Ürünleri listeleme ve görüntüleme
+- Ürün miktarını artırma veya azaltma
+- Ürünleri sepetten silme
+- Toplam tutarı, kargo ücretini ve vergileri hesaplama
+- Kargo ücreti ve vergi oranlarını belirleme
 
-## Kullanılan Teknolojiler
+## Teknolojiler
 
-- HTML, CSS ve JavaScript kullanılmıştır.
-- Font Awesome ikonları ve harici CSS dosyaları kullanılmıştır.
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Responsive Tasarım
 
 https://github.com/user-attachments/assets/f427206c-c613-4925-bc86-fb593edf87b6
 
